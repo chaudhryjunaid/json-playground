@@ -1,0 +1,16 @@
+{
+  "name": "json-playground",
+  "version": "1.0.0",
+  "description": "A node project to enable dropping into the node REPL with utility libraries like lodash available",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "playground",
+    "lodash"
+  ],
+  "author": "Chaudhry Junaid Anwar",
+  "license": "MIT"
+}
