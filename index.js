@@ -13,7 +13,7 @@ const reload = (module) => {
 
 module.exports = {
 	R,
-	L,
+	L: _,
 	moment,
 	fs,
 	reload,
