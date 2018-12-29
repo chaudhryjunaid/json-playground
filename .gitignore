@@ -84,3 +84,6 @@ typings/
 
 # JSON files
 *.json
+
+# custom scripts
+whiteboard/
