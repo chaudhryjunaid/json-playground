@@ -2,6 +2,7 @@ const decache = require('decache');
 const R = require('ramda');
 const _ = require('lodash');
 const moment = require('moment-timezone');
+const jsonfile = require('jsonfile');
 const fs = require('fs');
 const utilities = require('./utilities');
 
@@ -12,9 +13,10 @@ const reload = (module) => {
 
 module.exports = {
 	R,
-	_,
+	L,
 	moment,
 	fs,
 	reload,
+	...jsonfile,
 	...utilities
 };
