@@ -79,5 +79,8 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+# OS X
+.DS_Store
+
 # JSON files
 *.json
