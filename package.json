@@ -4,6 +4,7 @@
   "description": "A node project to enable dropping into the node REPL with utility libraries like lodash available",
   "main": "index.js",
   "scripts": {
+    "start": "node",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
