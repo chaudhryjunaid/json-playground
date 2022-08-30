@@ -18,7 +18,7 @@
     "decache": "^4.5.0",
     "jsonfile": "^5.0.0",
     "lodash": "^4.17.21",
-    "moment-timezone": "^0.5.23",
+    "moment-timezone": "^0.5.35",
     "ramda": "^0.26.1"
   }
 }
